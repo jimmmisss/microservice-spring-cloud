@@ -11,7 +11,7 @@ eureka:
 
 spring:
   datasource:
-    url: jdbc:mysql://localhost:3306/authDB?useTimezone=true&serverTimezone=UTC&autoreconnect=true&createDatabaseIfNotExist=TRUE
+    url: jdbc:mysql://localhost:3306/legalizzr?useTimezone=true&serverTimezone=UTC&autoreconnect=true&createDatabaseIfNotExist=TRUE
     username: root
     password: legalizzr
     driver-class-name: com.mysql.cj.jdbc.Driver
